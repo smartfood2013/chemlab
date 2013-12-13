@@ -1,0 +1,18 @@
+<datasheet>
+<entries>
+<entry>
+<name>antacidBrand</name>
+<displayName>Antacid brand</displayName>
+</entry>
+<entry>
+<name>mass</name>
+<displayName>Mass of Active Ingrediants</displayName>
+<validators>
+<validator name='Range'>
+<beginValue>20</beginValue>
+<endValue>200</endValue>
+</validator>
+</validators>
+</entry>
+</entries>
+</datasheet>
